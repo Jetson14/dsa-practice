@@ -1,0 +1,10 @@
+{
+  "name": "dsa-practice",
+  "version": "1.0.0",
+  "description": "Data Structures & Algorithms practice problems in JavaScript",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
